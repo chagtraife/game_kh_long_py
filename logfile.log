@@ -1,0 +1,1235 @@
+2020-04-13 22:28:38,918 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:28:39,745 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:28:40,581 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:28:41,421 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:28:42,256 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:28:43,079 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:28:43,932 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:44,253 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:44,254 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:44,864 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:45,184 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:45,185 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:45,789 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:46,109 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:46,109 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:46,709 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:47,035 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:47,036 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:47,637 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:47,958 : DEBUG : __main__ : Box(left=201, top=161, width=58, height=63)
+2020-04-13 22:28:47,958 : DEBUG : __main__ : Point(x=230, y=192)
+2020-04-13 22:28:48,554 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:48,873 : DEBUG : __main__ : Box(left=201, top=180, width=58, height=63)
+2020-04-13 22:28:48,874 : DEBUG : __main__ : Point(x=230, y=211)
+2020-04-13 22:28:49,469 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:49,795 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:49,795 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:50,409 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:50,732 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:50,733 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:51,337 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:51,660 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:51,660 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:52,267 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:52,589 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:52,590 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:53,187 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:53,509 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:53,509 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:54,102 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:54,431 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:54,431 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:55,037 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:55,361 : DEBUG : __main__ : Box(left=201, top=225, width=58, height=63)
+2020-04-13 22:28:55,362 : DEBUG : __main__ : Point(x=230, y=256)
+2020-04-13 22:28:55,971 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:56,286 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:56,287 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:56,893 : DEBUG : __main__ : IN GAME
+2020-04-13 22:28:57,192 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:28:57,193 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:28:57,760 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:28:58,580 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:28:59,408 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:29:00,234 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:29:01,057 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:29:01,882 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:29:02,712 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:34:22,350 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:34:23,185 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:34:24,029 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:34:24,867 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:34:25,716 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:34:26,577 : DEBUG : __main__ : IN GAME
+2020-04-13 22:34:26,892 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:34:26,893 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:34:27,414 : DEBUG : __main__ : IN GAME
+2020-04-13 22:34:27,741 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:34:27,741 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:34:28,252 : DEBUG : __main__ : IN GAME
+2020-04-13 22:34:28,575 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:34:28,575 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:34:29,079 : DEBUG : __main__ : IN GAME
+2020-04-13 22:34:29,397 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:34:29,398 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:34:29,897 : DEBUG : __main__ : IN GAME
+2020-04-13 22:34:30,212 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:34:30,213 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:34:30,712 : DEBUG : __main__ : IN GAME
+2020-04-13 22:34:31,008 : DEBUG : __main__ : None
+2020-04-13 22:36:08,714 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:09,020 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:09,020 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:09,531 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:09,859 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:09,860 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:10,361 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:10,680 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:10,680 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:11,188 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:11,509 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:11,509 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:12,015 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:12,348 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:12,348 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:12,860 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:13,156 : DEBUG : __main__ : None
+2020-04-13 22:36:29,378 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:36:30,203 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:36:31,031 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:36:31,850 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:36:32,706 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:36:33,568 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:33,884 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:33,884 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:34,399 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:34,718 : DEBUG : __main__ : Box(left=201, top=178, width=58, height=63)
+2020-04-13 22:36:34,719 : DEBUG : __main__ : Point(x=230, y=209)
+2020-04-13 22:36:35,222 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:35,554 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:35,554 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:36,049 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:36,368 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:36,368 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:36,874 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:37,204 : DEBUG : __main__ : Box(left=201, top=235, width=58, height=63)
+2020-04-13 22:36:37,204 : DEBUG : __main__ : Point(x=230, y=266)
+2020-04-13 22:36:37,697 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:38,622 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:38,622 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:39,123 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:39,455 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:39,456 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:39,955 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:40,269 : DEBUG : __main__ : Box(left=201, top=205, width=58, height=63)
+2020-04-13 22:36:40,270 : DEBUG : __main__ : Point(x=230, y=236)
+2020-04-13 22:36:40,772 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:41,092 : DEBUG : __main__ : Box(left=201, top=180, width=58, height=63)
+2020-04-13 22:36:41,092 : DEBUG : __main__ : Point(x=230, y=211)
+2020-04-13 22:36:41,605 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:41,923 : DEBUG : __main__ : Box(left=201, top=157, width=58, height=63)
+2020-04-13 22:36:41,923 : DEBUG : __main__ : Point(x=230, y=188)
+2020-04-13 22:36:42,422 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:42,741 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:42,741 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:43,251 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:43,570 : DEBUG : __main__ : Box(left=201, top=174, width=58, height=63)
+2020-04-13 22:36:43,571 : DEBUG : __main__ : Point(x=230, y=205)
+2020-04-13 22:36:44,067 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:44,386 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:36:44,386 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:36:44,876 : DEBUG : __main__ : IN GAME
+2020-04-13 22:36:45,173 : DEBUG : __main__ : None
+2020-04-13 22:39:51,725 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:52,019 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:39:52,019 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:39:52,518 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:52,858 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:39:52,858 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:39:53,365 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:53,686 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:39:53,686 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:39:54,191 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:54,509 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:39:54,509 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:39:55,014 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:55,330 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:39:55,330 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:39:55,828 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:56,145 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:39:56,146 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:39:56,648 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:56,968 : DEBUG : __main__ : Box(left=201, top=187, width=58, height=63)
+2020-04-13 22:39:56,968 : DEBUG : __main__ : Point(x=230, y=218)
+2020-04-13 22:39:57,474 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:57,797 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:39:57,798 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:39:58,289 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:58,613 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:39:58,613 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:39:59,105 : DEBUG : __main__ : IN GAME
+2020-04-13 22:39:59,424 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:39:59,424 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:39:59,902 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:40:00,731 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:40:01,545 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:40:02,370 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:40:03,209 : DEBUG : __main__ : OUT GAME
+2020-04-13 22:53:27,537 : DEBUG : __main__ : IN GAME
+2020-04-13 22:53:27,850 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:53:27,850 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:53:43,253 : DEBUG : __main__ : IN GAME
+2020-04-13 22:53:43,573 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 22:53:43,573 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 22:58:26,405 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:27,145 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:27,909 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:28,690 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:29,475 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:30,303 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:31,083 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:31,845 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:32,579 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:33,333 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:34,088 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:34,890 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:35,680 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:36,510 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:37,280 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:38,091 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:38,827 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:39,639 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:40,449 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:41,203 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:41,972 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:42,742 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:43,509 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:44,268 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:45,034 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:45,789 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:46,559 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:47,319 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:48,086 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:48,851 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:49,604 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:50,368 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:51,126 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:51,913 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:52,217 : DEBUG : __main__ : Box(left=177, top=246, width=58, height=63)
+2020-04-13 22:58:52,217 : DEBUG : __main__ : Point(x=206, y=277)
+2020-04-13 22:58:58,199 : DEBUG : __main__ : IN GAME
+2020-04-13 22:58:58,518 : DEBUG : __main__ : Box(left=177, top=246, width=58, height=63)
+2020-04-13 22:58:58,518 : DEBUG : __main__ : Point(x=206, y=277)
+2020-04-13 23:01:03,258 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:03,567 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 23:01:03,567 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 23:01:04,204 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:04,536 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 23:01:04,536 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 23:01:05,148 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:05,482 : DEBUG : __main__ : Box(left=201, top=245, width=58, height=63)
+2020-04-13 23:01:05,482 : DEBUG : __main__ : Point(x=230, y=276)
+2020-04-13 23:01:06,104 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:06,443 : DEBUG : __main__ : Box(left=201, top=244, width=58, height=63)
+2020-04-13 23:01:06,443 : DEBUG : __main__ : Point(x=230, y=275)
+2020-04-13 23:01:07,046 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:07,380 : DEBUG : __main__ : Box(left=201, top=245, width=58, height=63)
+2020-04-13 23:01:07,380 : DEBUG : __main__ : Point(x=230, y=276)
+2020-04-13 23:01:08,014 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:08,347 : DEBUG : __main__ : Box(left=201, top=244, width=58, height=63)
+2020-04-13 23:01:08,347 : DEBUG : __main__ : Point(x=230, y=275)
+2020-04-13 23:01:08,977 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:09,299 : DEBUG : __main__ : Box(left=201, top=243, width=58, height=63)
+2020-04-13 23:01:09,299 : DEBUG : __main__ : Point(x=230, y=274)
+2020-04-13 23:01:09,927 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:10,251 : DEBUG : __main__ : Box(left=201, top=243, width=58, height=63)
+2020-04-13 23:01:10,251 : DEBUG : __main__ : Point(x=230, y=274)
+2020-04-13 23:01:10,873 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:11,210 : DEBUG : __main__ : Box(left=201, top=243, width=58, height=63)
+2020-04-13 23:01:11,210 : DEBUG : __main__ : Point(x=230, y=274)
+2020-04-13 23:01:11,823 : DEBUG : __main__ : IN GAME
+2020-04-13 23:01:12,596 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:13,424 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:14,258 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:15,104 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:15,957 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:16,800 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:17,646 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:18,481 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:19,306 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:20,150 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:20,987 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:21,832 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:22,662 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:23,498 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:24,323 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:25,161 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:26,000 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:26,830 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:27,667 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:28,500 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:29,329 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:30,167 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:30,998 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:31,825 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:32,659 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:33,506 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:34,338 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:35,154 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:35,975 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:36,809 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:37,646 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:38,479 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:39,326 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:40,171 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:41,000 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:01:41,831 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:18:41,470 : DEBUG : __main__ : IN GAME
+2020-04-13 23:18:41,772 : DEBUG : __main__ : Box(left=177, top=246, width=58, height=63)
+2020-04-13 23:18:41,772 : DEBUG : __main__ : Point(x=206, y=277)
+2020-04-13 23:18:58,060 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:18:58,891 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:18:59,745 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:00,066 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 23:19:00,066 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 23:19:36,757 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:19:37,582 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:19:38,411 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:19:39,268 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:39,589 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 23:19:39,589 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 23:19:40,220 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:40,539 : DEBUG : __main__ : Box(left=201, top=234, width=58, height=63)
+2020-04-13 23:19:40,539 : DEBUG : __main__ : Point(x=230, y=265)
+2020-04-13 23:19:41,133 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:41,696 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 23:19:41,697 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 23:19:42,310 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:43,463 : DEBUG : __main__ : Box(left=201, top=157, width=58, height=63)
+2020-04-13 23:19:43,464 : DEBUG : __main__ : Point(x=230, y=188)
+2020-04-13 23:19:44,045 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:44,788 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:45,529 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:46,248 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:46,962 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:47,682 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:48,424 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:48,744 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 23:19:48,744 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 23:19:49,320 : DEBUG : __main__ : IN GAME
+2020-04-13 23:19:50,070 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:19:50,900 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:19:51,729 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:19:52,557 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:19:53,381 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:19:54,205 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:19:55,030 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:20:49,926 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:20:50,751 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:20:51,581 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:20:52,427 : DEBUG : __main__ : IN GAME
+2020-04-13 23:20:52,744 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 23:20:52,745 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 23:20:53,375 : DEBUG : __main__ : IN GAME
+2020-04-13 23:20:53,694 : DEBUG : __main__ : Box(left=201, top=234, width=58, height=63)
+2020-04-13 23:20:53,694 : DEBUG : __main__ : Point(x=230, y=265)
+2020-04-13 23:20:54,286 : DEBUG : __main__ : IN GAME
+2020-04-13 23:20:54,610 : DEBUG : __main__ : Box(left=201, top=234, width=58, height=63)
+2020-04-13 23:20:54,611 : DEBUG : __main__ : Point(x=230, y=265)
+2020-04-13 23:20:55,210 : DEBUG : __main__ : IN GAME
+2020-04-13 23:20:55,528 : DEBUG : __main__ : Box(left=201, top=234, width=58, height=63)
+2020-04-13 23:20:55,528 : DEBUG : __main__ : Point(x=230, y=265)
+2020-04-13 23:20:56,129 : DEBUG : __main__ : IN GAME
+2020-04-13 23:20:56,445 : DEBUG : __main__ : Box(left=201, top=235, width=58, height=63)
+2020-04-13 23:20:56,445 : DEBUG : __main__ : Point(x=230, y=266)
+2020-04-13 23:20:57,038 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:20:57,869 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:20:58,708 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:20:59,547 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:21:00,381 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:21:01,213 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:21:16,466 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:17,231 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:17,961 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:18,724 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:21:19,587 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:19,903 : DEBUG : __main__ : Box(left=201, top=246, width=58, height=63)
+2020-04-13 23:21:19,904 : DEBUG : __main__ : Point(x=230, y=277)
+2020-04-13 23:21:20,537 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:20,853 : DEBUG : __main__ : Box(left=201, top=233, width=58, height=63)
+2020-04-13 23:21:20,853 : DEBUG : __main__ : Point(x=230, y=264)
+2020-04-13 23:21:21,448 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:21,769 : DEBUG : __main__ : Box(left=201, top=234, width=58, height=63)
+2020-04-13 23:21:21,770 : DEBUG : __main__ : Point(x=230, y=265)
+2020-04-13 23:21:22,370 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:22,689 : DEBUG : __main__ : Box(left=201, top=235, width=58, height=63)
+2020-04-13 23:21:23,162 : DEBUG : __main__ : Point(x=230, y=266)
+2020-04-13 23:21:24,089 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:24,840 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:25,650 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:21:26,479 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:27,200 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:27,931 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:28,659 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:29,576 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:30,334 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:31,089 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:31,804 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:32,575 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:33,324 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:34,074 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:34,791 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:35,513 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:36,260 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:36,982 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:37,709 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:38,420 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:39,205 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:39,922 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:40,630 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:41,374 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:42,102 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:42,839 : DEBUG : __main__ : IN GAME
+2020-04-13 23:21:43,556 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:14,708 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:15,532 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:16,402 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:17,241 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:18,049 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:18,901 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:19,222 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:19,222 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:19,754 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:20,072 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:20,072 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:20,573 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:20,899 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:20,899 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:21,403 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:21,725 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:21,725 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:22,223 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:22,542 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:22,542 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:23,036 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:23,359 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:23,359 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:23,857 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:24,179 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:24,179 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:24,686 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:25,006 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:25,007 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:25,506 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:25,826 : DEBUG : __main__ : Box(left=1182, top=479, width=58, height=63)
+2020-04-13 23:23:25,826 : DEBUG : __main__ : Point(x=1211, y=510)
+2020-04-13 23:23:26,322 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:26,660 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:26,660 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:27,198 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:27,536 : DEBUG : __main__ : Box(left=1182, top=453, width=58, height=63)
+2020-04-13 23:23:27,536 : DEBUG : __main__ : Point(x=1211, y=484)
+2020-04-13 23:23:28,042 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:28,371 : DEBUG : __main__ : Box(left=1182, top=502, width=58, height=63)
+2020-04-13 23:23:28,371 : DEBUG : __main__ : Point(x=1211, y=533)
+2020-04-13 23:23:28,878 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:29,211 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:29,211 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:29,705 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:30,040 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:30,040 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:30,541 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:30,862 : DEBUG : __main__ : Box(left=1182, top=457, width=58, height=63)
+2020-04-13 23:23:30,862 : DEBUG : __main__ : Point(x=1211, y=488)
+2020-04-13 23:23:31,375 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:31,695 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:31,695 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:32,200 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:32,527 : DEBUG : __main__ : Box(left=1182, top=459, width=58, height=63)
+2020-04-13 23:23:32,527 : DEBUG : __main__ : Point(x=1211, y=490)
+2020-04-13 23:23:33,020 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:33,345 : DEBUG : __main__ : Box(left=1182, top=449, width=58, height=63)
+2020-04-13 23:23:33,345 : DEBUG : __main__ : Point(x=1211, y=480)
+2020-04-13 23:23:33,844 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:34,167 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:34,167 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:34,672 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:34,992 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:34,992 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:35,494 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:35,816 : DEBUG : __main__ : Box(left=1182, top=448, width=58, height=63)
+2020-04-13 23:23:35,817 : DEBUG : __main__ : Point(x=1211, y=479)
+2020-04-13 23:23:36,326 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:36,645 : DEBUG : __main__ : Box(left=1182, top=450, width=58, height=63)
+2020-04-13 23:23:36,645 : DEBUG : __main__ : Point(x=1211, y=481)
+2020-04-13 23:23:37,143 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:37,468 : DEBUG : __main__ : Box(left=1182, top=452, width=58, height=63)
+2020-04-13 23:23:37,468 : DEBUG : __main__ : Point(x=1211, y=483)
+2020-04-13 23:23:37,979 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:38,299 : DEBUG : __main__ : Box(left=1182, top=541, width=58, height=63)
+2020-04-13 23:23:38,299 : DEBUG : __main__ : Point(x=1211, y=572)
+2020-04-13 23:23:38,788 : DEBUG : __main__ : IN GAME
+2020-04-13 23:23:39,530 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:40,343 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:41,170 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:42,007 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:42,842 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:23:43,718 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:30:13,461 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:13,774 : DEBUG : __main__ : Box(left=542, top=425, width=58, height=63)
+2020-04-13 23:30:13,774 : DEBUG : __main__ : Point(x=571, y=456)
+2020-04-13 23:30:14,305 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:14,620 : DEBUG : __main__ : Box(left=542, top=392, width=58, height=63)
+2020-04-13 23:30:14,620 : DEBUG : __main__ : Point(x=571, y=423)
+2020-04-13 23:30:15,125 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:15,452 : DEBUG : __main__ : Box(left=560, top=425, width=58, height=63)
+2020-04-13 23:30:15,452 : DEBUG : __main__ : Point(x=589, y=456)
+2020-04-13 23:30:15,952 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:16,270 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:16,270 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:16,790 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:17,106 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:17,106 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:17,602 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:17,924 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:17,924 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:18,423 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:18,742 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:18,742 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:19,253 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:19,570 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:19,570 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:20,054 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:30:20,887 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:21,604 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:22,342 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:23,091 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:23,824 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:24,549 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:25,291 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:26,031 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:26,772 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:27,513 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:30:28,349 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:30:29,205 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:29,524 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:29,524 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:30,021 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:30,339 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:30,339 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:30,840 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:31,158 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:31,158 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:31,657 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:31,975 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:31,975 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:32,477 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:33,257 : DEBUG : __main__ : Box(left=565, top=359, width=58, height=63)
+2020-04-13 23:30:33,257 : DEBUG : __main__ : Point(x=594, y=390)
+2020-04-13 23:30:34,540 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:34,857 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:30:34,857 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:30:35,339 : DEBUG : __main__ : IN GAME
+2020-04-13 23:30:36,064 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:30:36,890 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:30:37,731 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:30:38,575 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:30:39,400 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:31:44,366 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:31:45,189 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:31:46,045 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:46,368 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:31:46,368 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:31:46,960 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:47,279 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:31:47,279 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:31:47,781 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:48,101 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:31:48,101 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:31:48,597 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:48,922 : DEBUG : __main__ : Box(left=565, top=339, width=58, height=63)
+2020-04-13 23:31:48,922 : DEBUG : __main__ : Point(x=594, y=370)
+2020-04-13 23:31:49,432 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:49,758 : DEBUG : __main__ : Box(left=565, top=425, width=58, height=63)
+2020-04-13 23:31:49,758 : DEBUG : __main__ : Point(x=594, y=456)
+2020-04-13 23:31:50,237 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:51,003 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:51,787 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:52,515 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:31:53,337 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:31:54,165 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:31:55,005 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:31:55,833 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:56,556 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:57,289 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:58,011 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:58,733 : DEBUG : __main__ : IN GAME
+2020-04-13 23:31:59,845 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:00,674 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:01,519 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:02,230 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:02,954 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:03,678 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:04,402 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:05,125 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:05,964 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:06,801 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:07,548 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:07,871 : DEBUG : __main__ : Box(left=1253, top=298, width=58, height=63)
+2020-04-13 23:32:07,872 : DEBUG : __main__ : Point(x=1282, y=329)
+2020-04-13 23:32:08,368 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:08,689 : DEBUG : __main__ : Box(left=1253, top=372, width=58, height=63)
+2020-04-13 23:32:08,689 : DEBUG : __main__ : Point(x=1282, y=403)
+2020-04-13 23:32:09,187 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:09,507 : DEBUG : __main__ : Box(left=1253, top=361, width=58, height=63)
+2020-04-13 23:32:09,508 : DEBUG : __main__ : Point(x=1282, y=392)
+2020-04-13 23:32:09,995 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:10,321 : DEBUG : __main__ : Box(left=1253, top=372, width=58, height=63)
+2020-04-13 23:32:10,321 : DEBUG : __main__ : Point(x=1282, y=403)
+2020-04-13 23:32:10,820 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:11,139 : DEBUG : __main__ : Box(left=1253, top=372, width=58, height=63)
+2020-04-13 23:32:11,139 : DEBUG : __main__ : Point(x=1282, y=403)
+2020-04-13 23:32:11,634 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:11,955 : DEBUG : __main__ : Box(left=1253, top=306, width=58, height=63)
+2020-04-13 23:32:11,955 : DEBUG : __main__ : Point(x=1282, y=337)
+2020-04-13 23:32:12,451 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:12,775 : DEBUG : __main__ : Box(left=1253, top=317, width=58, height=63)
+2020-04-13 23:32:12,775 : DEBUG : __main__ : Point(x=1282, y=348)
+2020-04-13 23:32:13,272 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:13,605 : DEBUG : __main__ : Box(left=1253, top=295, width=58, height=63)
+2020-04-13 23:32:13,605 : DEBUG : __main__ : Point(x=1282, y=326)
+2020-04-13 23:32:14,131 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:14,462 : DEBUG : __main__ : Box(left=1253, top=372, width=58, height=63)
+2020-04-13 23:32:14,462 : DEBUG : __main__ : Point(x=1282, y=403)
+2020-04-13 23:32:14,980 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:15,293 : DEBUG : __main__ : Box(left=1253, top=372, width=58, height=63)
+2020-04-13 23:32:15,293 : DEBUG : __main__ : Point(x=1282, y=403)
+2020-04-13 23:32:15,780 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:16,637 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:17,455 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:18,227 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:18,948 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:19,776 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:20,989 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:21,311 : DEBUG : __main__ : Box(left=1253, top=372, width=58, height=63)
+2020-04-13 23:32:21,311 : DEBUG : __main__ : Point(x=1282, y=403)
+2020-04-13 23:32:21,808 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:22,961 : DEBUG : __main__ : Box(left=1253, top=372, width=58, height=63)
+2020-04-13 23:32:22,961 : DEBUG : __main__ : Point(x=1282, y=403)
+2020-04-13 23:32:23,473 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:23,792 : DEBUG : __main__ : Box(left=1253, top=372, width=58, height=63)
+2020-04-13 23:32:23,792 : DEBUG : __main__ : Point(x=1282, y=403)
+2020-04-13 23:32:24,320 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:25,023 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:25,785 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:26,498 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:27,721 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:28,581 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:28,921 : DEBUG : __main__ : Box(left=832, top=410, width=58, height=63)
+2020-04-13 23:32:28,921 : DEBUG : __main__ : Point(x=861, y=441)
+2020-04-13 23:32:29,424 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:29,747 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:29,747 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:30,271 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:30,599 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:30,600 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:31,108 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:31,426 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:31,426 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:31,926 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:32,250 : DEBUG : __main__ : Box(left=360, top=364, width=58, height=63)
+2020-04-13 23:32:32,250 : DEBUG : __main__ : Point(x=389, y=395)
+2020-04-13 23:32:32,758 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:33,081 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:33,081 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:33,580 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:33,890 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:33,890 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:34,350 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:35,085 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:35,832 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:36,559 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:37,271 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:38,003 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:38,750 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:39,564 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:40,390 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:41,245 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:42,070 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:42,826 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:43,643 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:44,455 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:45,288 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:46,760 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:47,088 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:47,088 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:47,600 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:47,916 : DEBUG : __main__ : Box(left=360, top=302, width=58, height=63)
+2020-04-13 23:32:47,916 : DEBUG : __main__ : Point(x=389, y=333)
+2020-04-13 23:32:48,411 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:48,738 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:48,738 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:49,247 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:49,568 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:49,568 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:50,060 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:50,373 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:50,373 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:50,840 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:51,140 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:51,140 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:51,624 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:51,950 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:51,950 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:52,410 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:52,714 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:32:52,714 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:32:53,215 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:53,930 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:54,630 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:55,359 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:32:56,224 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:56,978 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:57,720 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:58,450 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:59,178 : DEBUG : __main__ : IN GAME
+2020-04-13 23:32:59,915 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:00,655 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:01,412 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:02,173 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:02,907 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:03,724 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:04,450 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:05,204 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:05,949 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:06,773 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:07,619 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:07,943 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:07,944 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:08,451 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:08,775 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:08,775 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:09,294 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:09,623 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:09,623 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:10,123 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:10,444 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:10,444 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:10,951 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:11,275 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:11,275 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:11,750 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:12,057 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:12,057 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:12,535 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:12,834 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:12,834 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:13,310 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:13,604 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:13,604 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:14,075 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:14,774 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:15,495 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:16,265 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:17,010 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:17,749 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:18,515 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:19,349 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:20,212 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:20,543 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:20,543 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:21,075 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:21,397 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:21,397 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:21,922 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:22,250 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:22,251 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:22,773 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:23,114 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:23,114 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:23,640 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:23,940 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:23,940 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:24,450 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:24,750 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:24,755 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:25,240 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:25,952 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:26,710 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:27,415 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:28,140 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:28,901 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:29,630 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:30,454 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:31,279 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:32,115 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:32,939 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:33,797 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:34,117 : DEBUG : __main__ : Box(left=360, top=318, width=58, height=63)
+2020-04-13 23:33:34,117 : DEBUG : __main__ : Point(x=389, y=349)
+2020-04-13 23:33:34,625 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:34,954 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:34,955 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:35,467 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:35,792 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:35,792 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:36,299 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:36,617 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:36,617 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:37,112 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:37,435 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:37,436 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:37,893 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:38,185 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:38,190 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:38,670 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:39,001 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:39,002 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:39,474 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:40,224 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:40,925 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:41,610 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:42,315 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:43,040 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:43,770 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:44,503 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:44,815 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:44,815 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:45,301 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:46,133 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:46,973 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:47,822 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:48,649 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:49,373 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:33:50,211 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:50,536 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:50,536 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:51,036 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:51,357 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:51,358 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:51,871 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:52,193 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:52,194 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:52,702 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:53,023 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:53,023 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:53,516 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:53,838 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:53,838 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:54,303 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:54,590 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:54,590 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:55,074 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:55,372 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:55,372 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:55,864 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:56,192 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:56,193 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:56,705 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:57,030 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:57,031 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:57,517 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:57,820 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:57,820 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:58,295 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:58,609 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:58,609 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:59,100 : DEBUG : __main__ : IN GAME
+2020-04-13 23:33:59,408 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:33:59,408 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:33:59,870 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:00,160 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:00,160 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:00,610 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:00,900 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:00,900 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:01,370 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:02,080 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:02,770 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:03,500 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:04,220 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:04,930 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:05,637 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:06,360 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:07,115 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:07,844 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:08,587 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:09,345 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:34:10,157 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:34:10,988 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:34:11,839 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:12,158 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:12,159 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:12,660 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:13,413 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:14,157 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:14,890 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:15,210 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:15,210 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:15,709 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:16,029 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:16,029 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:16,523 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:16,840 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:16,841 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:17,339 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:17,659 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:17,660 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:18,145 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:18,441 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:18,441 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:18,900 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:19,200 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:19,200 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:19,690 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:19,990 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:19,990 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:20,460 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:20,767 : DEBUG : __main__ : Box(left=360, top=385, width=58, height=63)
+2020-04-13 23:34:20,767 : DEBUG : __main__ : Point(x=389, y=416)
+2020-04-13 23:34:21,247 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:21,950 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:22,676 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:23,402 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:24,130 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:24,850 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:25,560 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:26,307 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:27,050 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:27,811 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:28,561 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:29,310 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:30,050 : DEBUG : __main__ : IN GAME
+2020-04-13 23:34:30,778 : DEBUG : __main__ : IN GAME
+2020-04-13 23:35:51,065 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:35:51,939 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:35:52,772 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:35:53,603 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:35:54,419 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:35:55,247 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:35:56,084 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:35:56,923 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:35:57,772 : DEBUG : __main__ : IN GAME
+2020-04-13 23:35:58,094 : DEBUG : __main__ : Box(left=213, top=150, width=58, height=63)
+2020-04-13 23:35:58,094 : DEBUG : __main__ : Point(x=242, y=181)
+2020-04-13 23:35:58,613 : DEBUG : __main__ : IN GAME
+2020-04-13 23:35:58,933 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:35:58,934 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:35:59,446 : DEBUG : __main__ : IN GAME
+2020-04-13 23:35:59,783 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:35:59,784 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:00,304 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:00,628 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:00,628 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:01,140 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:01,465 : DEBUG : __main__ : Box(left=213, top=215, width=58, height=63)
+2020-04-13 23:36:01,466 : DEBUG : __main__ : Point(x=242, y=246)
+2020-04-13 23:36:01,973 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:02,295 : DEBUG : __main__ : Box(left=213, top=206, width=58, height=63)
+2020-04-13 23:36:02,295 : DEBUG : __main__ : Point(x=242, y=237)
+2020-04-13 23:36:02,793 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:03,115 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:03,115 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:03,625 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:03,946 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:03,946 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:04,443 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:04,766 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:04,766 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:05,249 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:06,049 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:06,859 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:07,703 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:08,541 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:09,392 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:10,240 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:10,561 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:10,561 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:11,056 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:11,381 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:11,382 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:11,883 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:12,209 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:12,716 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:14,307 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:14,632 : DEBUG : __main__ : Box(left=213, top=167, width=58, height=63)
+2020-04-13 23:36:14,633 : DEBUG : __main__ : Point(x=242, y=198)
+2020-04-13 23:36:15,145 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:15,469 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:15,470 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:15,982 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:16,302 : DEBUG : __main__ : Box(left=213, top=168, width=58, height=63)
+2020-04-13 23:36:16,302 : DEBUG : __main__ : Point(x=242, y=199)
+2020-04-13 23:36:16,799 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:17,125 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:17,125 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:17,631 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:17,952 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:17,952 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:18,440 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:19,167 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:20,014 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:20,844 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:21,679 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:22,539 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:23,295 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:24,121 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:24,969 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:25,285 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:25,285 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:25,786 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:26,105 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:26,105 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:26,618 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:26,942 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:26,942 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:27,450 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:27,771 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:27,771 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:28,267 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:28,596 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:28,596 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:29,100 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:29,804 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:29,804 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:30,293 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:31,696 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:32,521 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:33,344 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:34,181 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:34,999 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:36,214 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:37,038 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:37,877 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:38,717 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:39,544 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:40,371 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:41,203 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:42,029 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:42,865 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:44,401 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:45,219 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:46,038 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:46,859 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:47,688 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:48,504 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:49,336 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:50,059 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:50,891 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:36:51,734 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:52,055 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:52,055 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:52,558 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:52,879 : DEBUG : __main__ : Box(left=213, top=181, width=58, height=63)
+2020-04-13 23:36:52,879 : DEBUG : __main__ : Point(x=242, y=212)
+2020-04-13 23:36:53,375 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:53,698 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:53,699 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:54,203 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:54,523 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:54,523 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:55,022 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:55,345 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:55,346 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:55,840 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:56,161 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:56,161 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:56,657 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:56,983 : DEBUG : __main__ : Box(left=213, top=197, width=58, height=63)
+2020-04-13 23:36:56,983 : DEBUG : __main__ : Point(x=242, y=228)
+2020-04-13 23:36:57,489 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:57,813 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:57,813 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:58,304 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:58,627 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:58,627 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:59,117 : DEBUG : __main__ : IN GAME
+2020-04-13 23:36:59,443 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:36:59,443 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:36:59,942 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:00,267 : DEBUG : __main__ : Box(left=213, top=214, width=58, height=63)
+2020-04-13 23:37:00,267 : DEBUG : __main__ : Point(x=242, y=245)
+2020-04-13 23:37:00,779 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:01,097 : DEBUG : __main__ : Box(left=213, top=223, width=58, height=63)
+2020-04-13 23:37:01,097 : DEBUG : __main__ : Point(x=242, y=254)
+2020-04-13 23:37:01,593 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:01,915 : DEBUG : __main__ : Box(left=213, top=205, width=58, height=63)
+2020-04-13 23:37:01,916 : DEBUG : __main__ : Point(x=242, y=236)
+2020-04-13 23:37:02,422 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:02,748 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:02,749 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:03,241 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:03,564 : DEBUG : __main__ : Box(left=213, top=159, width=58, height=63)
+2020-04-13 23:37:03,565 : DEBUG : __main__ : Point(x=242, y=190)
+2020-04-13 23:37:04,058 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:04,381 : DEBUG : __main__ : Box(left=213, top=196, width=58, height=63)
+2020-04-13 23:37:04,382 : DEBUG : __main__ : Point(x=242, y=227)
+2020-04-13 23:37:04,876 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:05,197 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:05,197 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:05,696 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:06,017 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:06,017 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:06,528 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:06,848 : DEBUG : __main__ : Box(left=213, top=156, width=58, height=63)
+2020-04-13 23:37:06,848 : DEBUG : __main__ : Point(x=242, y=187)
+2020-04-13 23:37:07,342 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:07,658 : DEBUG : __main__ : Box(left=213, top=142, width=58, height=63)
+2020-04-13 23:37:07,658 : DEBUG : __main__ : Point(x=242, y=173)
+2020-04-13 23:37:08,159 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:08,662 : DEBUG : __main__ : Box(left=213, top=152, width=58, height=63)
+2020-04-13 23:37:08,663 : DEBUG : __main__ : Point(x=242, y=183)
+2020-04-13 23:37:09,139 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:09,968 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:10,702 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:11,449 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:12,283 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:13,127 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:13,447 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:13,448 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:13,948 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:14,269 : DEBUG : __main__ : Box(left=213, top=166, width=58, height=63)
+2020-04-13 23:37:14,269 : DEBUG : __main__ : Point(x=242, y=197)
+2020-04-13 23:37:14,767 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:15,084 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:15,085 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:15,583 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:15,905 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:15,905 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:16,415 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:16,737 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:16,737 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:17,226 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:17,550 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:17,550 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:18,049 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:18,369 : DEBUG : __main__ : Box(left=213, top=145, width=58, height=63)
+2020-04-13 23:37:18,369 : DEBUG : __main__ : Point(x=242, y=176)
+2020-04-13 23:37:18,880 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:19,202 : DEBUG : __main__ : Box(left=213, top=206, width=58, height=63)
+2020-04-13 23:37:19,202 : DEBUG : __main__ : Point(x=242, y=237)
+2020-04-13 23:37:19,702 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:20,024 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:20,024 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:20,529 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:20,850 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:20,850 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:21,349 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:21,668 : DEBUG : __main__ : Box(left=213, top=145, width=58, height=63)
+2020-04-13 23:37:21,669 : DEBUG : __main__ : Point(x=242, y=176)
+2020-04-13 23:37:22,155 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:22,475 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:22,475 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:22,984 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:23,305 : DEBUG : __main__ : Box(left=213, top=152, width=58, height=63)
+2020-04-13 23:37:23,305 : DEBUG : __main__ : Point(x=242, y=183)
+2020-04-13 23:37:23,800 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:24,118 : DEBUG : __main__ : Box(left=213, top=144, width=58, height=63)
+2020-04-13 23:37:24,118 : DEBUG : __main__ : Point(x=242, y=175)
+2020-04-13 23:37:24,618 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:24,938 : DEBUG : __main__ : Box(left=213, top=160, width=58, height=63)
+2020-04-13 23:37:24,938 : DEBUG : __main__ : Point(x=242, y=191)
+2020-04-13 23:37:25,434 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:25,758 : DEBUG : __main__ : Box(left=212, top=237, width=58, height=63)
+2020-04-13 23:37:25,759 : DEBUG : __main__ : Point(x=241, y=268)
+2020-04-13 23:37:26,266 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:26,588 : DEBUG : __main__ : Box(left=213, top=188, width=58, height=63)
+2020-04-13 23:37:26,588 : DEBUG : __main__ : Point(x=242, y=219)
+2020-04-13 23:37:27,099 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:27,423 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:27,423 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:27,919 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:28,240 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:28,240 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:28,747 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:29,069 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:29,069 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:29,564 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:29,890 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:29,890 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:30,385 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:30,700 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:30,700 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:31,197 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:31,525 : DEBUG : __main__ : Box(left=213, top=163, width=58, height=63)
+2020-04-13 23:37:31,525 : DEBUG : __main__ : Point(x=242, y=194)
+2020-04-13 23:37:32,029 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:32,357 : DEBUG : __main__ : Box(left=213, top=150, width=58, height=63)
+2020-04-13 23:37:32,358 : DEBUG : __main__ : Point(x=242, y=181)
+2020-04-13 23:37:32,859 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:33,187 : DEBUG : __main__ : Box(left=213, top=148, width=58, height=63)
+2020-04-13 23:37:33,187 : DEBUG : __main__ : Point(x=242, y=179)
+2020-04-13 23:37:33,685 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:34,007 : DEBUG : __main__ : Box(left=213, top=145, width=58, height=63)
+2020-04-13 23:37:34,007 : DEBUG : __main__ : Point(x=242, y=176)
+2020-04-13 23:37:34,506 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:34,826 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:34,826 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:35,339 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:35,656 : DEBUG : __main__ : Box(left=213, top=144, width=58, height=63)
+2020-04-13 23:37:35,656 : DEBUG : __main__ : Point(x=242, y=175)
+2020-04-13 23:37:36,150 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:36,475 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:36,475 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:36,968 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:37,290 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:37,290 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:37,790 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:38,108 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:38,109 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:38,604 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:38,927 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:38,927 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:39,436 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:39,758 : DEBUG : __main__ : Box(left=213, top=236, width=58, height=63)
+2020-04-13 23:37:39,759 : DEBUG : __main__ : Point(x=242, y=267)
+2020-04-13 23:37:40,270 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:40,989 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:41,695 : DEBUG : __main__ : IN GAME
+2020-04-13 23:37:42,446 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:43,312 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:44,136 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:44,971 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:45,804 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:46,629 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:47,450 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:48,319 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:49,150 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:49,985 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:50,840 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:51,674 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:52,499 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:53,325 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:54,144 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:54,970 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:55,797 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:56,620 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:57,441 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:58,259 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:59,087 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:37:59,909 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:00,955 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:01,783 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:02,613 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:03,432 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:04,259 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:05,104 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:05,935 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:06,752 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:07,569 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:08,390 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:09,218 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:10,024 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:10,845 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:11,663 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:12,485 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:13,302 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:14,114 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:14,940 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:15,756 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:16,580 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:17,410 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:18,234 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:19,060 : DEBUG : __main__ : OUT GAME
+2020-04-13 23:38:19,890 : DEBUG : __main__ : OUT GAME
